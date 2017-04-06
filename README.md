@@ -29,7 +29,7 @@ $ cordova prepare
 ```
 
 ## Launching the App
-After installing the needed dependencies you are done, launch your app with a simpl
+After installing the needed dependencies you are done, launch your app based on platform:
 
 #### Can be used on Android or iOS
 
@@ -48,7 +48,7 @@ After installing the needed dependencies you are done, launch your app with a si
 ```    
     Run using XCode
 
-### browser
+### Browser
 ```sh
 $ ionic serve
 ```
@@ -61,3 +61,5 @@ $ ionic serve
   <img src="screenshots/img1.png" width="250"/>
   <img src="screenshots/img2.png" width="250"/>
 
+## Libraries
+There is no third-party libraries used on this project. All of them can be found either on Ionic 2, AngularJs 2 or Cordova.
